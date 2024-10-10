@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/obj/Debug/net8.0/scopedcss/projectbundle/Assignment4_Tushar_Sharma_8869110.bundle.scp.css",
+      "PackagePath": "staticwebassets/Assignment4_Tushar_Sharma_8869110.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/BMWX6.png",
+      "PackagePath": "staticwebassets/images/BMWX6.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/DodgeJourney.png",
+      "PackagePath": "staticwebassets/images/DodgeJourney.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/FordMustang.png",
+      "PackagePath": "staticwebassets/images/FordMustang.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/HyundaiElantra.png",
+      "PackagePath": "staticwebassets/images/HyundaiElantra.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/JeepWrangler.png",
+      "PackagePath": "staticwebassets/images/JeepWrangler.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/LexusNX300.png",
+      "PackagePath": "staticwebassets/images/LexusNX300.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/MercedesMAYBACH.png",
+      "PackagePath": "staticwebassets/images/MercedesMAYBACH.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/SubaruForester.png",
+      "PackagePath": "staticwebassets/images/SubaruForester.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/ToyotaCamry.png",
+      "PackagePath": "staticwebassets/images/ToyotaCamry.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/bannerImage.jpg",
+      "PackagePath": "staticwebassets/images/bannerImage.jpg"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/tusharsharma/Documents/Conestoga/Level-1/PROG-8146-Softw. Dev Techniques/Assignments/A4/Project_Tushar_Sharma_8869110/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Assignment4_Tushar_Sharma_8869110.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Assignment4_Tushar_Sharma_8869110.props",
+      "PackagePath": "build\\Assignment4_Tushar_Sharma_8869110.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Assignment4_Tushar_Sharma_8869110.props",
+      "PackagePath": "buildMultiTargeting\\Assignment4_Tushar_Sharma_8869110.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Assignment4_Tushar_Sharma_8869110.props",
+      "PackagePath": "buildTransitive\\Assignment4_Tushar_Sharma_8869110.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,18 @@
+﻿@page
+@using Assignment4_Tushar_Sharma_8869110.Pages
+@model ErrorModel
+@{
+    ViewData["Title"] = "Error";
+}
+
+<h1 class="text-danger">Sorry!.</h1>
+<h2 class="text-danger">Invalid Username or Password. Please try again.</h2>
+<div class="container mt-5">
+    <div class="mb-3 text-center">
+        <div class="card-body d-flex justify-content-center">
+            <a class="btn btn-custom" asp-page="/Login">
+                Back
+            </a>
+        </div>
+    </div>
+</div>

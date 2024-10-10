@@ -1,0 +1,22 @@
+[
+  {
+    "reservationID": 1,
+    "reservationInfo": {
+      "CustomerName": "Tushar",
+      "CustomerPhone": "334-556-4444",
+      "CustomerAddress": "vnklsdnvdskl",
+      "ReservationDateTime": "2024-08-07T10:12:00",
+      "ReservedCarId": 4
+    },
+    "carInfo": {
+      "CarId": 4,
+      "Model": "Elantra",
+      "Make": "Hyundai",
+      "ImagePath": "/../images/HyundaiElantra.png",
+      "Description": "A reliable and fuel-efficient sedan, ideal for both city driving and long journeys.",
+      "RentPerDay": 25.75,
+      "AvailableStatus": false,
+      "reservationCount": 21
+    }
+  }
+]

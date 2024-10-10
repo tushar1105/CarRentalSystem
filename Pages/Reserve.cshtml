@@ -1,0 +1,61 @@
+@page
+@using Assignment4_Tushar_Sharma_8869110.Pages
+@model Reserve
+@{
+    var formattedDateTime = Model.reservation.ReservationDateTime.ToString("yyyy-MM-ddTHH:mm");
+}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a asp-page="/Index">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Reserve a Car</li>
+  </ol>
+</nav>
+<div class="card mb-3 text-center">
+    <div class="card-body">
+        <h1 class="card-title">Reserve a Car</h1>
+    </div>
+</div>
+
+<div class="container card">
+    <form method="POST" class="mx-50">
+        <input type="hidden" asp-for="reservation.ReservedCarId" />
+        <div class="form-group form-container">
+            <span asp-validation-for="reservation.ReservedCarId" class="form-group text-danger"></span><br>
+            <label class="form-control" for="car">Your selected car:</label>
+            <select id="car" class="form-select" aria-label="Default select example" disabled>
+                <option selected value="@Model.reservation.ReservedCarId">@Model.car.Make - @Model.car.Model (Rent (CAD): $@Model.car.RentPerDay/day)</option>
+            </select>
+        </div>
+        <div class="form-group form-container">
+            <span asp-validation-for="reservation.CustomerName" class="text-danger"></span><br>
+            <label class="form-control" for="customerName">Customer Name:</label>
+            <input type="text" placeholder="Full name here. Maximum 200 characters only." maxlength = "200" class="form-control" id="customerName" asp-for="reservation.CustomerName">
+        </div>
+        <div class="form-group form-container">
+            <span asp-validation-for="reservation.CustomerPhone" class="text-danger"></span><br>
+            <label class="form-control" for="customerPhone">Customer Phone:</label>
+            <input type="text" placeholder="10 digit phone number only - NNN-NNN-NNNN." class="form-control" id="customerPhone" asp-for="reservation.CustomerPhone">
+        </div>
+        <div class="form-group form-container">
+            <span asp-validation-for="reservation.CustomerAddress" class="text-danger"></span><br>
+            <label class="form-control" for="customerAddress">Customer Address:</label>
+            <textarea placeholder="Address - Maximum 500 characters only." class="form-control" id="customerAddress" asp-for="reservation.CustomerAddress"></textarea>
+        </div>
+        <div class="form-group form-container">
+            <span asp-validation-for="reservation.ReservationDateTime" class="text-danger"></span><br>
+            <label class="form-control" for="reservationDateTime">Choose Reservation Date/Time:</label>
+            @{
+                // to restrict user to only future dates.
+                var minDate = DateTime.Now.ToString("yyyy-MM-ddTHH:mm");
+            }
+            <input type="datetime-local" class="form-control" id="reservationDateTime" asp-for="reservation.ReservationDateTime" min="@minDate" value="@formattedDateTime">
+        </div>
+        <div class="container mt-5">
+            <div class="mb-3 text-center">
+                <div class="card-body d-flex justify-content-center">
+                    <button type="submit" class="btn btn-custom">Submit</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

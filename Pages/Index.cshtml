@@ -1,0 +1,68 @@
+﻿@page
+@using Assignment4_Tushar_Sharma_8869110.Pages
+@model IndexModel
+<div class="card mb-3 text-center">
+    <img class="card-img-top" src="../images/bannerImage.jpg" alt="Card image cap" height="600" width="1200">
+    <div class="card-body">
+        <h2 class="card-title">Tushar Sharma's Car Rentals</h2>
+        <p class="card-text">The best car rental service provider in K-W region. Reserve your car today!</p>
+        <p class="card-text"><small class="text-muted">137 Univ Ave, Waterloo, ON - N2L 3E9 | Phone: +1
+                382-883-2345</small></p>
+    </div>
+</div>
+
+<div class="card mb-3 text-center">
+    <div class="card-body">
+        <h3 class="card-title">Cars for Rent</h3>
+    </div>
+</div>
+
+
+<div class="container card-container">
+    <div class="row">
+        @foreach (var car in Model.cars)
+        {
+            <div class="col-md-4 card-container text-center">
+                <div class="card hover-shadow">
+                    @if (@car.AvailableStatus)
+                    {
+                        <div class="card-header available">
+                            Available
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="card-header reserved">
+                            Reserved
+                        </div>
+                    }
+                    <img class="card-img-top" src="@car.ImagePath" height="250" alt="@car.Make - @car.Model">
+                    <div class="card-body">
+                        <h5 class="card-title">@car.Make - @car.Model</h5>
+                        <p class="card-text">Rent (CAD): $@car.RentPerDay/ day</p>
+                        <p class="card-text"><small class="text-muted">@car.Description</small></p>
+                        @if (@car.reservationCount > 1)
+                        {
+                            <p class="card-text"><small class="text-muted">Reserved @car.reservationCount times in the past.</small></p>
+                        }else{
+                            <p class="card-text"><small class="text-muted">Reserved @car.reservationCount time in the past.</small></p>
+                        }
+                        
+                        @if (@car.AvailableStatus)
+                        {
+                            <a class="btn btn-custom" asp-route-carId = "@car.CarId" asp-page="/Reserve">
+                                Reserve Now
+                            </a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-custom disabled" asp-page="/Reserve" readonly>
+                                Reserved
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

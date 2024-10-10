@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@0;1&family=Sacramento&display=swap');
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  background-color: #F3F7EC;
+  margin-bottom: 60px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 19px;
+  font-weight: 500;
+
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+li,td,th {
+  color: #201E43;
+  font-family: "Noto Sans", sans-serif;
+}
+
+/* custom */
+
+.card-container {
+  margin-top: 20px;
+}
+
+.form-container {
+  margin : 20px;
+  align-items: center;
+}
+.hover-shadow:hover{
+  /*  transform: scale(1.04);*/
+   cursor: pointer;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  
+  }
+.btn-custom{
+  background-color: #134B70;
+  color: #EEEEEE;
+}
+
+.btn-custom:hover{
+  background-color: #508C9B;
+  color: #EEEEEE;
+}
+
+.available{
+  background-color: #134B70;
+  color: #EEEEEE;
+}
+.reserved{
+  background-color: #606676;
+  color: white;
+}
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+  background-color: #606676;
+  color: white;
+}

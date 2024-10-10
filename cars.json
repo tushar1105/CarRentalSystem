@@ -1,0 +1,92 @@
+[
+  {
+    "CarId": 1,
+    "Model": "X6",
+    "Make": "BMW",
+    "ImagePath": "/../images/BMWX6.png",
+    "Description": "Luxurious and powerful, the BMW X6 offers a thrilling drive with cutting-edge technology.",
+    "RentPerDay": 20.3,
+    "AvailableStatus": true,
+    "reservationCount": 10
+  },
+  {
+    "CarId": 2,
+    "Model": "Journey",
+    "Make": "Dodge",
+    "ImagePath": "/../images/DodgeJourney.png",
+    "Description": "A spacious and versatile SUV, perfect for family trips and adventures.",
+    "RentPerDay": 34.5,
+    "AvailableStatus": true,
+    "reservationCount": 2
+  },
+  {
+    "CarId": 3,
+    "Model": "Mustang",
+    "Make": "Ford",
+    "ImagePath": "/../images/FordMustang.png",
+    "Description": "Experience the iconic American muscle car with its powerful performance and sleek design.",
+    "RentPerDay": 45,
+    "AvailableStatus": true,
+    "reservationCount": 13
+  },
+  {
+    "CarId": 4,
+    "Model": "Elantra",
+    "Make": "Hyundai",
+    "ImagePath": "/../images/HyundaiElantra.png",
+    "Description": "A reliable and fuel-efficient sedan, ideal for both city driving and long journeys.",
+    "RentPerDay": 25.75,
+    "AvailableStatus": false,
+    "reservationCount": 21
+  },
+  {
+    "CarId": 5,
+    "Model": "Wrangler",
+    "Make": "Jeep",
+    "ImagePath": "/../images/JeepWrangler.png",
+    "Description": "Rugged and ready for any terrain, the Jeep Wrangler is your go-to for off-road adventures.",
+    "RentPerDay": 30.6,
+    "AvailableStatus": true,
+    "reservationCount": 4
+  },
+  {
+    "CarId": 6,
+    "Model": "NX300",
+    "Make": "Lexus",
+    "ImagePath": "/../images/LexusNX300.png",
+    "Description": "Enjoy the luxury and comfort of the Lexus NX 300, featuring advanced safety and tech.",
+    "RentPerDay": 50.25,
+    "AvailableStatus": true,
+    "reservationCount": 3
+  },
+  {
+    "CarId": 7,
+    "Model": "Maybach",
+    "Make": "Mercedes",
+    "ImagePath": "/../images/MercedesMAYBACH.png",
+    "Description": "Indulge in top-tier elegance and performance with the luxurious Mercedes Maybach.",
+    "RentPerDay": 75.25,
+    "AvailableStatus": true,
+    "reservationCount": 22
+  },
+  {
+    "CarId": 8,
+    "Model": "Forester",
+    "Make": "Subaru",
+    "ImagePath": "/../images/SubaruForester.png",
+    "Description": "The Subaru Forester is a versatile SUV with ample space, perfect for outdoor enthusiasts.",
+    "RentPerDay": 40.25,
+    "AvailableStatus": true,
+    "reservationCount": 1
+  },
+  {
+    "CarId": 9,
+    "Model": "Camry",
+    "Make": "Toyota",
+    "ImagePath": "/../images/ToyotaCamry.png",
+    "Description": "A classic sedan known for its reliability and comfort, making every drive a pleasure.",
+    "RentPerDay": 30.25,
+    "AvailableStatus": true,
+    "reservationCount": 2
+  }
+]

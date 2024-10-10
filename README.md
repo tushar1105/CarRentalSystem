@@ -1,4 +1,4 @@
-# READ-ME: Tushar Sharma's Car Rentals - A Webapp by Tushar Sharma(8869110)
+# READ-ME: Tushar Sharma's Car Rentals - A Webapp by Tushar Sharma
 
 ## Application Overview
 
